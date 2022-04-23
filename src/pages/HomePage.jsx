@@ -25,7 +25,7 @@ const HomePage = (props) => {
     return (
         <div>
             <h1>HomePage</h1>
-            <button onClick={handleAddHobbbyClick}>Random hobby</button>
+            <button onClick={handleAddHobbbyClick}>Random sadasdsda hobby</button>
             <HobbyList
                 hobbyList={hobbyList}
                 activeId = {activeId}
